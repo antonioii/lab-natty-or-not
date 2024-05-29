@@ -1,51 +1,49 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
+## Natty or Not? Desvendando a Autenticidade na Era da IA Generativa 🕵️‍♀️
+---
+# 🦾 The "Natty Or Not" Dilemma
+---
 ## 📒 Descrição
-Breve descrição do seu projeto
+The "Natty of Not" Dilemma é um vídeo curto no estilo web-doc que explora a crescente questão da "Autenticidade" na era da IA Generativa, usando o conceito "Natty or Not" do fisiculturismo para ilustrar a dificuldade de distinguir o que é real do que é artificial. O vídeo aborda as implicações da IA generativa em áreas como jornalismo, arte e mídia social, e sugere soluções para navegar este dilema. A ideia foi criar um video com o mínimo possivel de intervenção humana a fim de completar o desafio lab-natty-or-not do bootcamp da DIO (https://github.com/digitalinnovationone/lab-natty-or-not). Com o mínimo possivel de intervenção no processo, percebe-se a possibilidade de automatização dos passos de criação.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+<p><strong>Para o desenvolvimento do projeto, foram utilizadas as seguintes IAs:</strong></p>
+
+<ul>
+    <li><strong>Goole AI Studio:</strong>
+        <p style="margin-left: 20px;">O gemini 1.5 flash foi o modelo de linguagem de IA para gerar o script do vídeo.  Ele foi usado para estruturar o argumento principal, criar exemplos e elaborar a linha de raciocínio para a discussão sobre "Natty or Not" na era da IA.</p>
+    </li>
+    <li><strong>Pictory.ai:</strong>
+        <p style="margin-left: 20px;">Ferramenta de IA para transformar texto em vídeo, usado para gerar o vídeo do projeto.  O Pictory AI  transformou o script gerado pelo ChatGPT em um vídeo dinâmico e visualmente atraente, complementando o conteúdo com imagens e animações relevantes ao tema.</p>
+    </li>
+    <li><strong>Leonardo.ai:</strong>
+        <p style="margin-left: 20px;">Ferramenta de IA para a criação de imagens a partir de prompts simples de texto. O leonardo.ai criou as ilustrações deste readme.</p>
+    </li>
+</ul>
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+O processo de criação do vídeo seguiu os seguintes passos:
+
+1. **Geração de Script:** O script do vídeo foi gerado usando o ChatGPT, com instruções para abordar o tema "Natty or Not" no contexto da IA Generativa.  O objetivo era criar um texto claro, informativo e engajador, explorando os desafios e as oportunidades da IA generativa em relação à autenticidade.
+2. **Criação do Vídeo:** O script foi usado como entrada para o Pictory AI, que transformou o texto em um vídeo com imagens e animações, criando um produto final profissional e informativo.  O Pictory AI permitiu que o script ganhasse vida, tornando a discussão sobre "Natty or Not" mais visual e interessante.
+3. **Ilustração:** Por fim, as imagens que ilustram este readme foram criadas atraves do leonardo.ai.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+O vídeo demonstra como a IA generativa pode ser usada para gerar conteúdo convincente e informativo. Ao mesmo tempo, o vídeo destaca os desafios da autenticidade e os perigos da desinformação na era da IA.
 
-### Exemplos e Insigths
+[LINK DO VÍDEO AQUI] 
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+## 💭 Reflexão 
 
-## Links Interessantes
+Este projeto me fez questionar o papel da criatividade humana em um mundo dominado pela IA. Embora a IA possa gerar conteúdo incrível, cabe a nós humanos garantir que o uso dessa tecnologia seja ético e responsável.  Este projeto, com o auxílio da IA, me permitiu explorar um tema complexo e relevante, e espero que seja um passo na direção de uma melhor compreensão da IA generativa e suas implicações para o futuro. Além disso, a velocidade de criação e a integração entre plataformas torna o processo de IA generativa extremamente escalonável e possivel de automatização.
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+---
+---
+## Processo a concluir:
+- [ ] Fazer upload do video para o github
+- [ ] Integrar o video no markdown
+- [ ] Revisionar texto final
+- [x] Incluir todas as IAs utilizadas: leonardo.ai, pictory.ai e gemini.ai
+- [ ] Incluir as imagens do leonardo.ai no readme
