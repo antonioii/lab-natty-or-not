@@ -33,6 +33,8 @@ O processo de criação do vídeo seguiu os seguintes passos:
 
 ## 🚀 Resultados
 
+[![Watch the video](https://img.youtube.com/vi/ZPiDcNl4GEA/maxresdefault.jpg)](https://youtu.be/ZPiDcNl4GEA)
+
 O vídeo demonstra como a IA generativa pode ser usada para gerar conteúdo convincente e informativo. Ao mesmo tempo, o vídeo destaca os desafios da autenticidade e os perigos da desinformação na era da IA.
 
 ## 💭 Reflexão 
@@ -42,8 +44,8 @@ Este projeto me fez questionar o papel da criatividade humana em um mundo domina
 ---
 ---
 ## Processo a concluir:
-- [ ] Fazer upload do video para o github
-- [ ] Integrar o video no markdown
+- [x] Fazer upload do video para o youtube
+- [x] Integrar o video no markdown
 - [ ] Revisionar texto final
 - [x] Incluir todas as IAs utilizadas: leonardo.ai, pictory.ai e gemini.ai
 - [x] Incluir as imagens do leonardo.ai no readme
