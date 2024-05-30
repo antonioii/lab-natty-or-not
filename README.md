@@ -35,7 +35,7 @@ O processo de criação do vídeo seguiu os seguintes passos:
 
 [![Watch the video](https://img.youtube.com/vi/ZPiDcNl4GEA/maxresdefault.jpg)](https://youtu.be/ZPiDcNl4GEA)
 
-O vídeo acimma demonstra como a IA generativa pode ser usada para gerar conteúdo convincente e informativo. Ao mesmo tempo, o vídeo destaca os desafios da autenticidade e os perigos da desinformação na era da IA.
+O vídeo acima demonstra como a IA generativa pode ser usada para gerar conteúdo convincente e informativo. Ao mesmo tempo, o vídeo destaca os desafios da autenticidade e os perigos da desinformação na era da IA.
 
 ## 💭 Reflexão 
 
