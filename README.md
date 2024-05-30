@@ -1,6 +1,8 @@
 ## Natty or Not? Desvendando a Autenticidade na Era da IA Generativa 🕵️‍♀️
 ---
 # 🦾 The "Natty Or Not" Dilemma
+![Screenshot_3](https://github.com/antonioii/lab-natty-or-not/assets/65146538/b65c960c-b717-4a9c-bdc7-56a0a446cb5f)
+    
 ---
 ## 📒 Descrição
 The "Natty of Not" Dilemma é um vídeo curto no estilo web-doc que explora a crescente questão da "Autenticidade" na era da IA Generativa, usando o conceito "Natty or Not" do fisiculturismo para ilustrar a dificuldade de distinguir o que é real do que é artificial. O vídeo aborda as implicações da IA generativa em áreas como jornalismo, arte e mídia social, e sugere soluções para navegar este dilema. A ideia foi criar um video com o mínimo possivel de intervenção humana a fim de completar o desafio lab-natty-or-not do bootcamp da DIO (https://github.com/digitalinnovationone/lab-natty-or-not). Com o mínimo possivel de intervenção no processo, percebe-se a possibilidade de automatização dos passos de criação.
@@ -33,8 +35,6 @@ O processo de criação do vídeo seguiu os seguintes passos:
 
 O vídeo demonstra como a IA generativa pode ser usada para gerar conteúdo convincente e informativo. Ao mesmo tempo, o vídeo destaca os desafios da autenticidade e os perigos da desinformação na era da IA.
 
-[LINK DO VÍDEO AQUI] 
-
 ## 💭 Reflexão 
 
 Este projeto me fez questionar o papel da criatividade humana em um mundo dominado pela IA. Embora a IA possa gerar conteúdo incrível, cabe a nós humanos garantir que o uso dessa tecnologia seja ético e responsável.  Este projeto, com o auxílio da IA, me permitiu explorar um tema complexo e relevante, e espero que seja um passo na direção de uma melhor compreensão da IA generativa e suas implicações para o futuro. Além disso, a velocidade de criação e a integração entre plataformas torna o processo de IA generativa extremamente escalonável e possivel de automatização.
@@ -46,4 +46,4 @@ Este projeto me fez questionar o papel da criatividade humana em um mundo domina
 - [ ] Integrar o video no markdown
 - [ ] Revisionar texto final
 - [x] Incluir todas as IAs utilizadas: leonardo.ai, pictory.ai e gemini.ai
-- [ ] Incluir as imagens do leonardo.ai no readme
+- [x] Incluir as imagens do leonardo.ai no readme
