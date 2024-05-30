@@ -5,7 +5,7 @@
     
 ---
 ## 📒 Descrição
-The "Natty of Not" Dilemma é um vídeo curto no estilo web-doc que explora a crescente questão da "Autenticidade" na era da IA Generativa, usando o conceito "Natty or Not" do fisiculturismo para ilustrar a dificuldade de distinguir o que é real do que é artificial. O vídeo aborda as implicações da IA generativa em áreas como jornalismo, arte e mídia social, e sugere soluções para navegar este dilema. A ideia foi criar um video com o mínimo possivel de intervenção humana a fim de completar o desafio lab-natty-or-not do bootcamp da DIO (https://github.com/digitalinnovationone/lab-natty-or-not). Com o mínimo possivel de intervenção no processo, percebe-se a possibilidade de automatização dos passos de criação.
+The "Natty or Not" Dilemma é um vídeo curto no estilo web-doc que explora a crescente questão da "Autenticidade" na era da IA Generativa, usando o conceito "Natty or Not" do fisiculturismo para ilustrar a dificuldade de distinguir o que é real do que é artificial. O vídeo aborda as implicações da IA generativa em áreas como jornalismo, arte e mídia social, e sugere soluções para navegar este dilema. A ideia foi criar um video com o mínimo possivel de intervenção humana a fim de completar o desafio lab-natty-or-not do bootcamp da DIO (https://github.com/digitalinnovationone/lab-natty-or-not). Com o mínimo possivel de intervenção no processo, percebe-se a possibilidade de automatização dos passos de criação.
 
 ## 🤖 Tecnologias Utilizadas
 
