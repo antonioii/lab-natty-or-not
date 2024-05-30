@@ -16,10 +16,10 @@ The "Natty or Not" Dilemma é um vídeo curto no estilo web-doc que explora a cr
         <p style="margin-left: 20px;">O gemini 1.5 flash foi o modelo de linguagem de IA para gerar o script do vídeo.  Ele foi usado para estruturar o argumento principal, criar exemplos e elaborar a linha de raciocínio para a discussão sobre "Natty or Not" na era da IA.</p>
     </li>
     <li><strong>Pictory.ai:</strong>
-        <p style="margin-left: 20px;">Ferramenta de IA para transformar texto em vídeo, usado para gerar o vídeo do projeto.  O Pictory AI  transformou o script gerado pelo ChatGPT em um vídeo dinâmico e visualmente atraente, complementando o conteúdo com imagens e animações relevantes ao tema.</p>
+        <p style="margin-left: 20px;">Ferramenta de IA para transformar texto em vídeo, usado para gerar o vídeo do projeto.  O Pictory AI  transformou o script gerado pelo Gemini em um vídeo dinâmico e visualmente atraente, complementando o conteúdo com imagens e animações relevantes ao tema.</p>
     </li>
     <li><strong>Leonardo.ai:</strong>
-        <p style="margin-left: 20px;">Ferramenta de IA para a criação de imagens a partir de prompts simples de texto. O leonardo.ai criou as ilustrações deste readme.</p>
+        <p style="margin-left: 20px;">Ferramenta de IA para a criação de imagens a partir de prompts simples de texto. O leonardo.ai criou a ilustração deste readme.</p>
     </li>
 </ul>
 
@@ -27,15 +27,15 @@ The "Natty or Not" Dilemma é um vídeo curto no estilo web-doc que explora a cr
 
 O processo de criação do vídeo seguiu os seguintes passos:
 
-1. **Geração de Script:** O script do vídeo foi gerado usando o ChatGPT, com instruções para abordar o tema "Natty or Not" no contexto da IA Generativa.  O objetivo era criar um texto claro, informativo e engajador, explorando os desafios e as oportunidades da IA generativa em relação à autenticidade.
+1. **Geração de Script:** O script do vídeo foi gerado usando o Gemini do Google AI Studio, com instruções para abordar o tema "Natty or Not" no contexto da IA Generativa.  O objetivo era criar um texto claro, informativo e engajador, explorando os desafios e as oportunidades da IA generativa em relação à autenticidade.
 2. **Criação do Vídeo:** O script foi usado como entrada para o Pictory AI, que transformou o texto em um vídeo com imagens e animações, criando um produto final profissional e informativo.  O Pictory AI permitiu que o script ganhasse vida, tornando a discussão sobre "Natty or Not" mais visual e interessante.
-3. **Ilustração:** Por fim, as imagens que ilustram este readme foram criadas atraves do leonardo.ai.
+3. **Ilustração:** Por fim, a imagem que ilustra este readme foi criada atraves do leonardo.ai e o video foi hospedado no YouTube (disponível abaixo).
 
 ## 🚀 Resultados
 
 [![Watch the video](https://img.youtube.com/vi/ZPiDcNl4GEA/maxresdefault.jpg)](https://youtu.be/ZPiDcNl4GEA)
 
-O vídeo demonstra como a IA generativa pode ser usada para gerar conteúdo convincente e informativo. Ao mesmo tempo, o vídeo destaca os desafios da autenticidade e os perigos da desinformação na era da IA.
+O vídeo acimma demonstra como a IA generativa pode ser usada para gerar conteúdo convincente e informativo. Ao mesmo tempo, o vídeo destaca os desafios da autenticidade e os perigos da desinformação na era da IA.
 
 ## 💭 Reflexão 
 
@@ -43,9 +43,9 @@ Este projeto me fez questionar o papel da criatividade humana em um mundo domina
 
 ---
 ---
-## Processo a concluir:
+## Checklist para finalizar:
 - [x] Fazer upload do video para o youtube
 - [x] Integrar o video no markdown
-- [ ] Revisionar texto final
+- [x] Revisionar texto final
 - [x] Incluir todas as IAs utilizadas: leonardo.ai, pictory.ai e gemini.ai
 - [x] Incluir as imagens do leonardo.ai no readme
